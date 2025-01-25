@@ -1,0 +1,36 @@
+# Steps Followed to Create the Power BI Dashboard
+### Understood the Requirements
+
+* We began by reviewing the data and understanding what the client or audience needed.
+* In this case, the goal was to analyze employee participation in training based on job levels, managers, and teams.
+### Gathered and Prepared the Data
+
+* The raw data was imported into Power BI Desktop.
+* We cleaned and shaped the data using the Power Query Editor by removing unnecessary columns, filling in missing values, and renaming fields.
+* The data was structured properly to enable seamless analysis.
+
+### Built the Visuals
+
+* We created visuals such as cards, bar graphs, pie charts, and slicers to represent the required insights.
+### For example:
+* Cards displayed total participation numbers.
+* Bar Graphs visualized participation by job levels and managers.
+* Pie Charts represented participation distribution by teams.
+* Slicers allowed filtering by job level, manager, or team.
+### Used Bookmarks and Buttons
+
+* Bookmarks were added to save specific views of the dashboard.
+* Buttons were created to enable navigation between different pages or sections of the report.
+Customized and Polished
+
+### Colors, themes, and formatting were applied to make the visuals more attractive and easy to interpret.
+* Titles, labels, and tooltips were added for better clarity.
+### Tested and Shared
+
+The dashboard was previewed to ensure everything worked as expected, such as slicers, navigation, and visuals.
+Finally, the dashboard was published to the Power BI service to share it with the team.
+
+# Learn Power BI Dashboard Creation on YouTube
+For a detailed and beginner-friendly tutorial, check out this amazing video:
+How to Create a Power BI Dashboard – Step by Step (Replace this link with your preferred tutorial)
+
